@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is syntax and I'm a JavaScript Developer</h2>
+<h2 align="left">Hi 👋! My name is syntax and I'm a Web Developer</h2>
 
 ###
 
