@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=Bun&logo=bun&label=&color=FFFFFF&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="bun logo"  />
   <img src="https://img.shields.io/static/v1?message=Nodemon&logo=nodemon&label=&color=09AD03&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodemon logo"  />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F55F31&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
-  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=FFFFFF&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
 </div>
 
 ###
