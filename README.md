@@ -10,13 +10,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=f5DA42&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=f5DA42&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=4287F5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="typescript logo"  />
   <img src="https://img.shields.io/static/v1?message=NodeJS&logo=node.js&label=&color=09AD03&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodejs logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bun&logo=bun&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="bun logo"  />
+  <img src="https://img.shields.io/static/v1?message=Bun&logo=bun&label=&color=FFFFFF&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="bun logo"  />
   <img src="https://img.shields.io/static/v1?message=Nodemon&logo=nodemon&label=&color=09AD03&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodemon logo"  />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F55F31&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
-  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=FFFFFF&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Babel&logo=babel&label=&color=EDDA34&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
 </div>
 
 ###
