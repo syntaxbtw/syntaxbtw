@@ -9,20 +9,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
-
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=f5DA42&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=4287F5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="typescript logo"  />
   <img src="https://img.shields.io/static/v1?message=NodeJS&logo=node.js&label=&color=09AD03&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodejs logo"  />
