@@ -1,25 +1,31 @@
-<h2 align="left">Hi 👋! My name is syntax and I'm a Web Developer</h2>
-
-###
-
+<h1 align="center">Syntax</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syntaxbtw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syntaxbtw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <h5>Self Taught Programmer</h5>
+  <h6>Fueled by curiosity, I embrace every opportunity to learn, explore, and evolve.</h6>
 </div>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=f5DA42&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=4287F5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="typescript logo"  />
-  <img src="https://img.shields.io/static/v1?message=NodeJS&logo=node.js&label=&color=09AD03&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodejs logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bun&logo=bun&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="bun logo"  />
-  <img src="https://img.shields.io/static/v1?message=Nodemon&logo=nodemon&label=&color=09AD03&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodemon logo"  />
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F55F31&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
-  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=Babel&logo=babel&label=&color=EDDA34&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <h3>Languages</h3>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
 </div>
-
-###
-
-<br clear="both">
+<div align="center">
+  <h3>Tools</h3>
+  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
+</div>
+<div align="center">
+  <h3>Statistics</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syntaxbtw&theme=github_dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntaxbtw&theme=github_dark&show_icons=false&card_width=350" />
+  </a>
+</div>
+<img height=15 align="right" src="https://komarev.com/ghpvc/?username=syntaxbtw&abbreviated=true" />
