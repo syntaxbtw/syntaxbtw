@@ -18,6 +18,8 @@
   <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Library/Bun?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Compiler/Babel?theme=dark"/>
 </div>
 <div align="center">
   <h3>Statistics</h3>
