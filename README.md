@@ -1,5 +1,5 @@
 <h1 align="center">Syntax</h1>
-<div align="center">
+<div>
   <h5>Self Taught Programmer</h5>
   <h6>Fueled by curiosity, I embrace every opportunity to learn, explore, and evolve.</h6>
 </div>
