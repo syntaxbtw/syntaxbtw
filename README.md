@@ -5,9 +5,6 @@
 </div>
 <div>
   <h3>Languages</h3>
-  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Rust?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
@@ -22,7 +19,6 @@
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Bun?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Compiler/Babel?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Yarn?theme=dark"/>
 </div>
 <div>
   <h3>Statistics</h3>
