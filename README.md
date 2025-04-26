@@ -28,5 +28,5 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntaxbtw&theme=github_dark&show_icons=false&card_width=350" />
   </a>
+  <img height=15 align="right" src="https://komarev.com/ghpvc/?username=syntaxbtw&abbreviated=true" />
 </div>
-<img height=15 align="right" src="https://komarev.com/ghpvc/?username=syntaxbtw&abbreviated=true" />
