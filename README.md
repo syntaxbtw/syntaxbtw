@@ -1,4 +1,4 @@
-<h1 align="center">Syntax</h1>
+<h1 align="center">x676w</h1>
 <div>
   <h5>Self Taught Programmer</h5>
   <h6>Fueled by curiosity, I embrace every opportunity to learn, explore, and evolve.</h6>
@@ -23,10 +23,10 @@
 <div>
   <h3>Statistics</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syntaxbtw&theme=github_dark&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=x676w&theme=github_dark&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntaxbtw&theme=github_dark&show_icons=false&card_width=350" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x676w&theme=github_dark&show_icons=false&card_width=350" />
   </a>
-  <img height=15 align="right" src="https://komarev.com/ghpvc/?username=syntaxbtw&abbreviated=true" />
+  <img height=15 align="right" src="https://komarev.com/ghpvc/?username=x676w&abbreviated=true" />
 </div>
